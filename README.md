@@ -86,4 +86,3 @@ This is not a casual repo.
 
 If used properly, it builds real computational thinking.
 If used lazily, it’s just another set of files.
-```
