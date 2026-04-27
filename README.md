@@ -12,31 +12,7 @@ Led by
 **Mikiyas Shegaw — President**  
 **Nathan Wondim — Vice President**
 
-We returned from the **Bahir Dar University STEM Incubation Center** with a clear objective: teach and transfer the discipline, depth, and problem-solving mindset we gained to students in our former schools.
 
----
-
-## Project Overview
-
-This repository contains a structured Python course inspired by:
-
-- CS50’s Introduction to Programming with Python  
-- CS50’s Introduction to Computer Science  
-- CS50’s Introduction to Artificial Intelligence with Python  
-
-We do not simplify content to make it easy. We structure it to make it **understandable and rigorous**.
-
----
-
-## What We Teach
-
-- Python programming from fundamentals  
-- Computational thinking  
-- Data structures  
-- Algorithms and problem solving  
-- Introduction to AI concepts  
-
----
 
 ## Teaching Philosophy
 
@@ -80,9 +56,3 @@ This project adapts CS50 materials and is licensed under:
 
 ---
 
-## Final Statement
-
-This is not a casual repo.
-
-If used properly, it builds real computational thinking.
-If used lazily, it’s just another set of files.
