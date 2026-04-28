@@ -34,7 +34,7 @@ If a student finishes this course properly, they should be able to approach unfa
 ---
 ## Key Teaching Principles I Learned from CS50
 
-From CS50, I learned several important teaching principles:
+From CS50, we learned several important teaching principles:
 
 - **Problem-driven learning**: introducing concepts through real problems
 Teaching through problem-solving: allowing students to think through challenges step by step
