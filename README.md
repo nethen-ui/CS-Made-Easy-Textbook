@@ -14,7 +14,7 @@
 
 ## What This Is
 
-CS Made Easy is a programming textbook written by two high school students in Ethiopia. It teaches Python from the ground up — not through definitions and memorization, but through a narrative-driven, problem-first approach we developed ourselves.
+CS Made Easy is a programming textbook written by two high school students in Ethiopia. It teaches Python from the ground up, not through definitions and memorization, but through a narrative-driven, problem-first approach we developed ourselves.
 
 The book follows David, a summer intern at a supermarket navigating real tasks at his first job. Every concept in the book is introduced because David needs it to solve a problem in front of him. Students learn the way programmers actually learn: through necessity, not instruction.
 
@@ -37,9 +37,9 @@ We have both taught in real classrooms. We are not sharing content we found. We 
 
 Most introductory programming books introduce a concept, show an example, and ask you to repeat it. This book does the opposite.
 
-**Narrative-based teaching** is our core contribution. The book places the student inside a story. You are David. You have a supervisor named Mr. Henderson who gives you real tasks with real expectations. You have a mentor named Feynman who explains concepts the moment you need them — not before.<br>
+**Narrative-based teaching** is our core contribution. The book places the student inside a story. You are David. You have a supervisor named Mr. Henderson who gives you real tasks with real expectations. You have a mentor named Feynman who explains concepts the moment you need them.<br>
 
-This is not decoration. The narrative is the teaching method. Concepts arrive when the story demands them, which means students encounter the *need* for a concept before they encounter the concept itself. That sequence — problem first, concept second — is what produces genuine understanding instead of memorization.
+This is not decoration. The narrative is the teaching method. Concepts arrive when the story demands them, which means students encounter the *need* for a concept before they encounter the concept itself. That sequence: problem first, concept second is what produces genuine understanding instead of memorization.
 
 ---
 
@@ -57,7 +57,7 @@ Three principles govern every chapter of this book:
 
 ## What We Are Currently Teaching
 
-We are currently running a course based on a modified version of **CS50P** — Harvard's Introduction to Programming with Python — using this textbook as the primary learning material. We adapted the CS50P curriculum to fit a high school context and built our own textbook to support the way we teach it.
+We are currently running a course based on using this textbook as the primary learning material. We buit this curriculum to fit a high school context and built our own textbook to support the way we teach it.
 
 Whether we expand the course further will depend on what we learn from this current run.
 
