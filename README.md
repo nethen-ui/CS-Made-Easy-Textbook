@@ -6,9 +6,9 @@
 ![curriculum](https://img.shields.io/badge/curriculum-CS50-red)
 ![level](https://img.shields.io/badge/level-beginner--to--intermediate-purple)
 
-**Authors:** Mikiyas Shegaw & Nathan Wondim
-**Level:** High School (Grade 9–12) — No prior programming experience required
-**Status:** Written, taught, and tested in a real classroom
+**Authors:** Mikiyas Shegaw & Nathan Wondim<br>
+**Level:** High School (Grade 9–12) — No prior programming experience required<br>
+**Status:** Written, taught, and tested in a real classroom<br>
 
 ---
 
@@ -18,7 +18,7 @@ CS Made Easy is a programming textbook written by two high school students in Et
 
 The book follows David, a junior software engineer navigating real tasks at his first job. Every concept in the book is introduced because David needs it to solve a problem in front of him. Students learn the way programmers actually learn: through necessity, not instruction.
 
-We wrote this book. We tested it by teaching it. And we are currently running a modified version of CS50P — Harvard's Python course — using it as our primary textbook.
+We wrote this book. We tested it by teaching it. And we are currently using it as our primary textbook.
 
 ---
 
@@ -26,10 +26,10 @@ We wrote this book. We tested it by teaching it. And we are currently running a 
 
 We are two high school students in Ethiopia who decided to teach programming to our peers rather than wait for someone else to do it.
 
-**Mikiyas Shegaw** — President
-**Nathan Wondim** — Vice President
+**Mikiyas Shegaw** — President<br>
+**Nathan Wondim** — Vice President<br>
 
-We have both taught in real classrooms. We are not sharing content we found — we created this material, refined it through teaching, and are continuing to develop it based on what we observe in students.
+We have both taught in real classrooms. We are not sharing content we found. We created this material, refined it through teaching, and are continuing to develop it based on what we observe in students.
 
 ---
 
@@ -37,7 +37,7 @@ We have both taught in real classrooms. We are not sharing content we found — 
 
 Most introductory programming books introduce a concept, show an example, and ask you to repeat it. This book does the opposite.
 
-**Narrative-based teaching** is our core contribution. The book places the student inside a story. You are David. You have a supervisor named Mr. Henderson who gives you real tasks with real expectations. You have a mentor named Feynman who explains concepts the moment you need them — not before.
+**Narrative-based teaching** is our core contribution. The book places the student inside a story. You are David. You have a supervisor named Mr. Henderson who gives you real tasks with real expectations. You have a mentor named Feynman who explains concepts the moment you need them — not before.<br>
 
 This is not decoration. The narrative is the teaching method. Concepts arrive when the story demands them, which means students encounter the *need* for a concept before they encounter the concept itself. That sequence — problem first, concept second — is what produces genuine understanding instead of memorization.
 
