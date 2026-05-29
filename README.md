@@ -3,7 +3,6 @@
 ![status](https://img.shields.io/badge/status-active-brightgreen)
 ![focus](https://img.shields.io/badge/focus-education-blue)
 ![language](https://img.shields.io/badge/language-python-yellow)
-![curriculum](https://img.shields.io/badge/curriculum-CS50-red)
 ![level](https://img.shields.io/badge/level-beginner--to--intermediate-purple)
 
 **Authors:** Mikiyas Shegaw & Nathan Wondim<br>
